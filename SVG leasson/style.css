@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(183, 112, 112);
+}
+.pictures:hover{
+    border: 2px black solid;
+    border-color: rgb(255, 38, 0);
+}
